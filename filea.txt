@@ -1,4 +1,9 @@
 
 
 this is a file inside master.
+<<<<<<< HEAD
 added by Ruslan
+=======
+this is a line by Ihor
+
+>>>>>>> e8fd7f0a9a9b1477e1cd5fb1643c3992fd15c676
